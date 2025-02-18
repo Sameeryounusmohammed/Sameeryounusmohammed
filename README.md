@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sameer Younus</h1>
 <h3 align="center">Turning Raw Data into Meaningful Stories | Data Analyst | Problem-Solver | Curious Mind Exploring Patterns</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameeryounusmohammed" alt="sameeryounusmohammed" /></a> </p>
-
 - 🌱 I’m currently learning **Retrieval augmented generation(RAG),**
 
 - 💬 Ask me about **Data Analytics**
